@@ -1,0 +1,1 @@
+scalac -bootclasspath C:\Users\DELL\.sbt\boot\scala-2.12.10\lib\scala-library.jar -classpath C:\Users\DELL\Desktop\03_代码\chapter01\target\scala-2.12\classes C:\Users\DELL\Desktop\03_代码\chapter01\Comment.scala C:\Users\DELL\Desktop\03_代码\chapter01\LookSourceCode.scala C:\Users\DELL\Desktop\03_代码\chapter01\printDemo.scala C:\Users\DELL\Desktop\03_代码\chapter01\TestScala.scala

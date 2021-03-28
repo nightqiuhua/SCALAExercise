@@ -1,0 +1,6 @@
+run Comment.scala
+1
+run
+run 1
+show discoveredMainClasses
+run com.atguigu.chapter01.Comment
